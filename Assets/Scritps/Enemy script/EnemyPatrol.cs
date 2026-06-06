@@ -18,7 +18,7 @@ public class EnemyPatrol : MonoBehaviour
         if (spline == null) return;
 
         
-        float delta = (speed / spline.CalculateLength()) * Time.deltaTime; // how much to move this frame
+        float delta = (speed / spline.CalculateLength()) * Time.deltaTime; 
         t += movingForward ? delta : -delta;
 
         if (t >= 1f)

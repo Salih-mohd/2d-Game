@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3187da053d2680146a38a67594b3081d, type: 3}
   m_Name: GameData
   m_EditorClassIdentifier: 
-  unlockedLevel: 2
-  musicVolume: 0.31442925
+  unlockedLevel: 1
+  musicVolume: 0.75976175
   isMusicOn: 0
   onGameVon:
     m_PersistentCalls:

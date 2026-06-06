@@ -12,11 +12,4 @@ public class ArrowDisable : MonoBehaviour
         if(collision.CompareTag("disableArrow"))
        gameObject.SetActive(false);
     }
-
-    
-
-    
-
-
-    
 }

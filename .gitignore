@@ -12,9 +12,13 @@
 
 # Visual Studio / .NET / IDE
 .vs/
+.vsconfig
 *.suo
 *.user
 *.userosscache
+*.sln
+*.unityproj
+*.csproj
 *.sln.docstates
 *.csproj.user
 *.pidb
@@ -22,7 +26,6 @@
 *.pdb
 *.cache
 *.ilk
-*.meta
 
 # Build folders
 [Bb]in/
